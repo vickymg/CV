@@ -52,6 +52,7 @@ Study Abroad Coordinator (November 2014 – November 2015)
 * led a project to rebuild the Study Abroad student database, working to understand user requirements, planning, and building the new database using FileMaker software
 * coordinating Integrated, Semester and Summer Study Abroad programmes for international students across five of UAL’s constituent colleges, line managing the Study Abroad administrators
 * responsible for the administration of applications and enrolments, liaising with departments and academic staff around the university, as well as building relationships with partner institutions abroad
+
 Study Abroad Administrator (December 2012 – November 2014)
 * administered Study Abroad programmes across UAL, providing support for students throughout the application process and whilst studying in London
 The Salters’ Institute

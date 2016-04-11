@@ -16,8 +16,8 @@ Education professional turned junior developer. Enthusiastic, hard working, and 
 
 - BA (Hons) Italian and European Literature, 2:1
 - Erasmus year abroad at Università degli Studi di Pisa, Italy
-- Vacation residences included 1-month help exhcnage at Taormina's Odyssey Youth Hostel, Sicily, and
-  volunteer camp at Crest Jazz Vocal festival, France
+- Vacation residences included a help exchange at Taormina's Odyssey Youth Hostel, Sicily, and
+  a volunteer camp at Crest Jazz Vocal Festival, France
 
 #### The George Ward School, Melksham
 A-Levels:   English Literature (B), History (B), French (B)

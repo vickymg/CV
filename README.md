@@ -20,10 +20,11 @@ Education professional turned junior developer. Enthusiastic, hard working, and 
   volunteer camp at Crest Jazz Vocal festival, France
 
 #### The George Ward School, Melksham
-A-Levels:   
-English Literature (B), History (B), French (B)
-AS-Levels:  
-English Language (B)
+A-Levels: English Literature (B), History (B), French (B)
+
+AS-Levels: English Language (B)
+
+
 GCSEs:      
 Art (A*), French (A*), English Literature (A), English Language (A), History (A), D&T: Graphic Design (A), R.E.              (A), Maths (B), Biology (B), Physics (B), Chemistry (C)
 GNVQ:

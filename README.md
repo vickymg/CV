@@ -24,8 +24,8 @@ A-Levels:   English Literature (B), History (B), French (B)
 
 AS-Levels:  English Language (B)
 
-GCSEs:      Art (A*), English Literature (A), English Lanaguage (A), History (A), D&T: Graphic Design (A),
-            R.E. (A), French (A*), Maths (B), Biology (B), Physics (B), Chemistry (C)
+GCSEs:      Art (A\*), French (A\*) English Literature (A), English Lanaguage (A), History (A), D&T: Graphic Design (A),
+            R.E. (A), Maths (B), Biology (B), Physics (B), Chemistry (C)
 
 GNVQ:       Art & Design (Distinction)
 

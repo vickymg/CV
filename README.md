@@ -1,6 +1,6 @@
 ## Vicky Gray
 
-I'm an education professional turned junior developer. Enthusiastic, hard working, and with key strengths in teamwork, communication and attention to detail. I'm looking for a role with an organisation where I can continue learning and extending my skills.
+I'm an education professional turned junior developer. Enthusiastic, hard working, and with key strengths in teamwork, communication and attention to detail, I'm looking for a role with an organisation where I can continue learning and extending my skills.
 
 #### Web Development
 

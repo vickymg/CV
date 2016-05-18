@@ -6,7 +6,7 @@ I'm an education professional turned junior developer. Enthusiastic, hard workin
 
 **Makers Academy**
 
-Learning to code at Makers Academy, I have completed projects in Ruby, Rails, JavaScript and AngularJS, amongst other technologies. It has meant I have an appreciation for clean code and test-drive development, and I have really enjoyed pair-programming with a different person every day. I has also meant I now have the ability to pick up new languages and frameworks very quickly, and I am still learning more!
+Learning to code at Makers Academy, I have completed projects in Ruby, Rails, JavaScript and AngularJS, amongst other technologies. It has meant I have an appreciation for clean code and test-driven development, and I have really enjoyed pair-programming with a different person every day. I has also meant I now have the ability to pick up new languages and frameworks very quickly, and I am still learning more!
 
 Some projects completed include:
 - [Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS

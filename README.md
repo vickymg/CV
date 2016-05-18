@@ -74,7 +74,9 @@ GCSEs:      Art (A\*), French (A\*) English Literature (A), English Lanaguage (A
 
 GNVQ:       Art & Design (Distinction)
 
-### When I'm not coding, I enjoy...
+### Finally...
+
+When I'm not coding, I enjoy:
 
 * cycling & canoeing
 * travel & photography

@@ -2,8 +2,6 @@
 
 Education professional turned junior developer. Enthusiastic, hard working, and with key strengths in teamwork, communication and attention to detail. Looking for a role with a company where I can continue learning and extending my skills.
 
-## Education
-
 #### Makers Academy (January to April 2016)
 
 - Independent learner and problem-solver
@@ -11,6 +9,12 @@ Education professional turned junior developer. Enthusiastic, hard working, and 
 - Software Craftsmanship, pair programming
 - Ruby, Rails, Javascript, AngularJs, Ionic
 - Rspec, Capybara, Jasmine, Protractor 
+
+#### Codebar
+
+- Volunteer coach at Codebar programming workshops
+
+## Education
 
 #### University of Warwick (2005-2009)
 

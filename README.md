@@ -4,8 +4,6 @@ I'm an education professional turned junior developer. Enthusiastic, hard workin
 
 #### Web Development
 
-I have loved learning to code at Makers Academy, and now I'm enjoying getting more involved in the tech community and other projects in London...
-
 **Makers Academy (January to April 2016)**
 
 - Independent learner and problem-solver
@@ -30,8 +28,6 @@ Some of my favourite projects at Makers included:
 
 ### Experience
 
-My previous jobs mean that key skills I bring across include a very good understanding of communication in different contexts, a high regard for customer service, and the ability to organise anything that falls in my path...
-
 **University of the Arts London, Study Abroad Coordinator (November 2014 – November 2015)**
 * led a project to rebuild the Study Abroad student database, working to understand user requirements, planning, and building the new database using FileMaker software
 * coordinating Integrated, Semester and Summer Study Abroad programmes for international students across five of UAL’s constituent colleges, line managing the Study Abroad administrators
@@ -47,8 +43,6 @@ My previous jobs mean that key skills I bring across include a very good underst
 * administered residential revision courses for International Baccalaureate students, taking place at Oxford and Cambridge universities, and assisting with revision book sales
 
 ### Languages
-
-I studied languages for my degree, but didn't leave them there. I still like to practise when I can, and to pick up new ones...
 
 * English (native)
 * Italian (good working proficiency)

@@ -4,7 +4,7 @@ I'm an education professional turned junior developer. Enthusiastic, hard workin
 
 #### Web Development
 
-I have loved learning to code at Makers Academy, and getting more involved in the tech community in London...
+I have loved learning to code at Makers Academy, and now I'm enjoying getting more involved in the tech community and other projects in London...
 
 #### Makers Academy (January to April 2016)
 
@@ -18,12 +18,15 @@ I have loved learning to code at Makers Academy, and getting more involved in th
 Some of my favourite projects at Makers included:
 
 [Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS
-
 [Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - An mobile app for kids using Rails and Ionic
 
 #### Codebar
 
 - Volunteer coach at Codebar programming workshops
+
+#### UCRecovery
+
+- Contributing to [UCRecovery](https://github.com/ezzye/ucrecovery "UCRecovery"), a collaborative project with Business Masters students at UCL to produce a data collection app, aimed at reducing post-operation recovery times in hospitals
 
 ### Experience
 

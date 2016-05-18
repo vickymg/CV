@@ -1,6 +1,10 @@
 ## Vicky Gray
 
-Education professional turned junior developer. Enthusiastic, hard working, and with key strengths in teamwork, communication and attention to detail. Looking for a role with a company where I can continue learning and extending my skills.
+I'm an education professional turned junior developer. Enthusiastic, hard working, and with key strengths in teamwork, communication and attention to detail. I am looking for a role with an exciting and friendly company where I can continue learning and extending my skills.
+
+#### Web Development
+
+I have loved learning to code and getting more involved in the tech community in London...
 
 #### Makers Academy (January to April 2016)
 
@@ -11,12 +15,17 @@ Education professional turned junior developer. Enthusiastic, hard working, and 
 - Rspec, Capybara, Jasmine, Protractor 
 - OOP, TDD, MVC
 
+Some of my favourite projects at Makers included:
+[Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi")
+[Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport")
+
 #### Codebar
 
 - Volunteer coach at Codebar programming workshops
 
+### Experience
 
-## Experience
+My previous jobs mean that key skills I bring across include a very good understanding of communication in different contexts, a high regard for customer service, and the ability to organise anything that falls in my path...
 
 University of the Arts London, Study Abroad Coordinator (November 2014 – November 2015)
 * led a project to rebuild the Study Abroad student database, working to understand user requirements, planning, and building the new database using FileMaker software
@@ -32,14 +41,16 @@ The Salters’ Institute, Camps Administrator (October 2010 – November 2012)
 Oxford Study Courses, Course Administrator (December 2009 – October 2010)
 * administered residential revision courses for International Baccalaureate students, taking place at Oxford and Cambridge universities, and assisting with revision book sales
 
-## Languages
+### Languages
+
+I studied languages for my degree, but didn't leave them there. I still like to practise when I can, and to pick up new ones...
 
 * English (native)
 * Italian (good working proficiency)
 * Spanish (intermediate)
 * French (intermediate)
 
-## Education
+### Education
 
 #### University of Warwick (2005-2009)
 
@@ -58,3 +69,9 @@ GCSEs:      Art (A\*), French (A\*) English Literature (A), English Lanaguage (A
 
 GNVQ:       Art & Design (Distinction)
 
+### When I'm not coding I enjoy...
+
+* cycling
+* travel & photography
+* playing flute with the Symphonic Wind Orchestra of North London
+* being out and about in London, whether it's at a tech talk, a meetup, or catching up with friends

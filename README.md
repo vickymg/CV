@@ -6,7 +6,7 @@ I'm an education professional turned junior developer. Enthusiastic, hard workin
 
 I have loved learning to code at Makers Academy, and now I'm enjoying getting more involved in the tech community and other projects in London...
 
-#### Makers Academy (January to April 2016)
+**Makers Academy (January to April 2016)**
 
 - Independent learner and problem-solver
 - Software craftsmanship, pair programming
@@ -18,13 +18,14 @@ I have loved learning to code at Makers Academy, and now I'm enjoying getting mo
 Some of my favourite projects at Makers included:
 
 [Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS
+
 [Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - An mobile app for kids using Rails and Ionic
 
-#### Codebar
+**Codebar**
 
 - Volunteer coach at Codebar programming workshops
 
-#### UCRecovery
+**UCRecovery**
 
 - Contributing to [UCRecovery](https://github.com/ezzye/ucrecovery "UCRecovery"), a collaborative project with Business Masters students at UCL to produce a data collection app, aimed at reducing post-operation recovery times in hospitals
 
@@ -57,14 +58,14 @@ I studied languages for my degree, but didn't leave them there. I still like to 
 
 ### Education
 
-#### University of Warwick (2005-2009)
+**University of Warwick (2005-2009)**
 
 BA (Hons) Italian and European Literature, 2:1
 - Erasmus year abroad at Università degli Studi di Pisa, Italy
 - Vacation residences included a help exchange at Taormina's Odyssey Youth Hostel, Sicily, and
   a volunteer camp at Crest Jazz Vocal Festival, France
 
-#### The George Ward School, Melksham
+**The George Ward School, Melksham**
 A-Levels:   English Literature (B), History (B), French (B)
 
 AS-Levels:  English Language (B)

@@ -22,7 +22,7 @@ Some of my favourite projects at Makers included:
 
 **Codebar**
 
-- Volunteer coach at Codebar programming workshops
+- Volunteer coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops
 
 **UCRecovery**
 

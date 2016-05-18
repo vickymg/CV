@@ -1,32 +1,29 @@
 ## Vicky Gray
 
-I'm an education professional turned junior developer. Enthusiastic, hard working, and with key strengths in teamwork, communication and attention to detail. I am looking for a role with an exciting and friendly company where I can continue learning and extending my skills.
+I'm an education professional turned junior developer. Enthusiastic, hard working, and with key strengths in teamwork, communication and attention to detail. I'm looking for a role with an organisation where I can continue learning and extending my skills.
 
 #### Web Development
 
-**Makers Academy (January to April 2016)**
+**Makers Academy**
 
-- Independent learner and problem-solver
-- Software craftsmanship, pair programming
-- Ruby, Rails, Javascript, AngularJs, Ionic
-- HTML & CSS
-- Rspec, Capybara, Jasmine, Protractor 
-- OOP, TDD, MVC
+- Projects 
 
-Some of my favourite projects at Makers included:
 
 - [Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS
-- [Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - An mobile app for kids using Rails and Ionic
-
-**Codebar**
-
-- Volunteer coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops
+- [Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - A mobile app for kids using Rails and Ionic
 
 **UCRecovery**
 
-- Contributing to [UCRecovery](https://github.com/ezzye/ucrecovery "UCRecovery"), a collaborative project with Business Masters students at UCL to produce a data collection app, aimed at reducing post-operation recovery times in hospitals
+- I am contributing to [UCRecovery](https://github.com/ezzye/ucrecovery "UCRecovery"), a collaborative project with Business Masters students at UCL to produce a data collection app, aimed at reducing post-operation recovery times in hospitals
+- Ionic is being used as the main technology for this project, tested with Karma and Protractor, and as developers we are practising TDD and pair-programming
+
+**Codebar**
+
+- I currently volunteer as a coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops, teaching beginners to code
 
 ### Experience
+
+My previous jobs mean that key skills I bring across include a very good understanding of communication in different contexts, a high regard for customer service, and the ability to organise anything that falls in my path.
 
 **University of the Arts London, Study Abroad Coordinator (November 2014 – November 2015)**
 * led a project to rebuild the Study Abroad student database, working to understand user requirements, planning, and building the new database using FileMaker software
@@ -42,14 +39,15 @@ Some of my favourite projects at Makers included:
 **Oxford Study Courses, Course Administrator (December 2009 – October 2010)**
 * administered residential revision courses for International Baccalaureate students, taking place at Oxford and Cambridge universities, and assisting with revision book sales
 
-### Languages
-
-* English (native)
-* Italian (good working proficiency)
-* Spanish (intermediate)
-* French (intermediate)
-
 ### Education
+
+**Makers Academy (January to April 2016)**
+
+- Ruby, Rails, Javascript, AngularJs, Ionic
+- HTML & CSS
+- Rspec, Capybara, Jasmine, Protractor 
+- Object Oriented Programming & Test Driven Development
+- Software craftsmanship, pair programming
 
 **University of Warwick (2005-2009)**
 
@@ -57,17 +55,6 @@ BA (Hons) Italian and European Literature, 2:1
 - Erasmus year abroad at Università degli Studi di Pisa, Italy
 - Vacation residences included a help exchange at Taormina's Odyssey Youth Hostel, Sicily, and
   a volunteer camp at Crest Jazz Vocal Festival, France
-
-**The George Ward School, Melksham**
-
-A-Levels:   English Literature (B), History (B), French (B)
-
-AS-Levels:  English Language (B)
-
-GCSEs:      Art (A\*), French (A\*) English Literature (A), English Lanaguage (A), History (A), D&T: Graphic Design (A),
-            R.E. (A), Maths (B), Biology (B), Physics (B), Chemistry (C)
-
-GNVQ:       Art & Design (Distinction)
 
 ### Finally...
 

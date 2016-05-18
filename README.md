@@ -17,9 +17,8 @@ I have loved learning to code at Makers Academy, and now I'm enjoying getting mo
 
 Some of my favourite projects at Makers included:
 
-[Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS
-
-[Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - An mobile app for kids using Rails and Ionic
+- [Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS
+- [Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - An mobile app for kids using Rails and Ionic
 
 **Codebar**
 
@@ -75,7 +74,7 @@ GCSEs:      Art (A\*), French (A\*) English Literature (A), English Lanaguage (A
 
 GNVQ:       Art & Design (Distinction)
 
-### When I'm not coding I enjoy...
+### When I'm not coding, I enjoy...
 
 * cycling & canoeing
 * travel & photography

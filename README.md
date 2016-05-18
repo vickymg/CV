@@ -6,15 +6,15 @@ I'm an education professional turned junior developer. Enthusiastic, hard workin
 
 **Makers Academy**
 
-- Projects 
+Learning to code at Makers Academy, I have completed projects in Ruby, Rails, JavaScript and AngularJS, amongst other technologies. It has meant I have an appreciation for clean code and test-drive development, and I have really enjoyed pair-programming with a different person every day. I has also meant I now have the ability to pick up new languages and frameworks very quickly, and I am still learning more!
 
-
+Some projects completed include:
 - [Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS
-- [Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - A mobile app for kids using Rails and Ionic
+- [Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - A mobile app for kids using Rails for the back end, and Ionic for the decoupled front end
 
 **UCRecovery**
 
-- I am contributing to [UCRecovery](https://github.com/ezzye/ucrecovery "UCRecovery"), a collaborative project with Business Masters students at UCL to produce a data collection app, aimed at reducing post-operation recovery times in hospitals
+- I am now contributing to [UCRecovery](https://github.com/ezzye/ucrecovery "UCRecovery"), a collaborative project with Business Masters students at UCL to produce a data collection app, aimed at reducing post-operation recovery times in hospitals
 - Ionic is being used as the main technology for this project, tested with Karma and Protractor, and as developers we are practising TDD and pair-programming
 
 **Codebar**

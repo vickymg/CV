@@ -65,6 +65,7 @@ BA (Hons) Italian and European Literature, 2:1
   a volunteer camp at Crest Jazz Vocal Festival, France
 
 **The George Ward School, Melksham**
+
 A-Levels:   English Literature (B), History (B), French (B)
 
 AS-Levels:  English Language (B)

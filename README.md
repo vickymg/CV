@@ -19,7 +19,7 @@ Some projects completed include:
 
 **Codebar**
 
-- I currently volunteer as a coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops, teaching beginners to code
+- I currently volunteer as a coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops, helping beginners learn to code
 
 ### Experience
 

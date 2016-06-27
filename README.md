@@ -20,7 +20,7 @@ Some projects completed include:
 **Coaching**
 
 - I currently volunteer as a coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops, helping beginners learn to code
-- I was also a coach at the most recent [RailsGirls](http://railsgirls.london/ "Rails Girls London") workshop, taking beginners through Ruby basics, and getting a Rails app up and running
+- I was also a coach at the most recent [Rails Girls London](http://railsgirls.london/ "Rails Girls London") workshop, taking beginners through Ruby basics, and getting a Rails app up and running
 
 
 ### Experience

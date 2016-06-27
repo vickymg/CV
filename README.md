@@ -17,9 +17,11 @@ Some projects completed include:
 - I am now contributing to [UCRecovery](https://github.com/ezzye/ucrecovery "UCRecovery"), a collaborative project with Business Masters students at UCL to produce a data collection app, aimed at reducing post-operation recovery times in hospitals
 - Ionic is being used as the main technology for this project, tested with Karma and Protractor, and we are pair-programming where possible
 
-**Codebar**
+**Coaching**
 
 - I currently volunteer as a coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops, helping beginners learn to code
+- I was also a coach at the most recent [RailsGirls](http://railsgirls.london/ "Rails Girls London") workshop, taking beginners through Ruby basics, and getting a Rails app up and running
+
 
 ### Experience
 

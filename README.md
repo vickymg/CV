@@ -3,6 +3,7 @@
 #### Web Development Experience
 
 **Ministry of Justice**
+
 Junior Front-End Developer (August 2016 - present)
 
 Working on front-end development in HTML, CSS and JavaScript. Currently working on the Money to Prisoners project.

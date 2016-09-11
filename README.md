@@ -1,8 +1,10 @@
 ## Vicky Gray
 
-I'm an education professional turned junior developer. Enthusiastic, hard working, and with key strengths in teamwork, communication and attention to detail, I'm looking for a role with an organisation where I can continue learning and extending my skills.
-
 #### Web Development
+
+**Ministry of Justice, Junior Front-End Developer (August 2016 - present)**
+
+Working on front-end development in HTML, CSS and JavaScript. Currently working on the Money to Prisoners project.
 
 **Makers Academy**
 
@@ -12,13 +14,10 @@ Some projects completed include:
 - [Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS
 - [Museum Passport](https://github.com/vickymg/frontend_museum_passport "Museum Passport") - A mobile app for kids using Rails for the back end, and Ionic for the decoupled front end
 
-**UCRecovery**
 
-- I am now contributing to [UCRecovery](https://github.com/ezzye/ucrecovery "UCRecovery"), a collaborative project with Business Masters students at UCL to produce a data collection app, aimed at reducing post-operation recovery times in hospitals
-- Ionic is being used as the main technology for this project, tested with Karma and Protractor, and we are pair-programming where possible
+**Teaching**
 
-**Coaching**
-
+- I am an Assistant Instructor the Code First: Girls beginner HTML, CSS & JavaScript course at Birkbeck, University of London, for Autumn 2016
 - I currently volunteer as a coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops, helping beginners learn to code
 - I was also a coach at the most recent [Rails Girls London](http://railsgirls.london/ "Rails Girls London") workshop, taking beginners through Ruby basics, and getting a Rails app up and running
 

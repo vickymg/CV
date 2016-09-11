@@ -1,14 +1,15 @@
 ## Vicky Gray
 
-#### Web Development
+#### Web Development Experience
 
-**Ministry of Justice, Junior Front-End Developer (August 2016 - present)**
+**Ministry of Justice**
+Junior Front-End Developer (August 2016 - present)
 
 Working on front-end development in HTML, CSS and JavaScript. Currently working on the Money to Prisoners project.
 
 **Makers Academy**
 
-Learning to code at Makers Academy, I have completed projects in Ruby, Rails, JavaScript and AngularJS, amongst other technologies. It has meant I have an appreciation for clean code and test-driven development, and I have really enjoyed pair-programming with a different person every day. I also now have the ability to pick up new languages and frameworks very quickly, and I am still learning more!
+Learning to code at Makers Academy, I have completed projects in Ruby, Rails, JavaScript and AngularJS, amongst other technologies. It has meant I have an appreciation for clean code and test-driven development, and I have really enjoyed pair-programming with a different person every day. I also now have the ability to pick up new languages and frameworks very quickly, and I am always learning more.
 
 Some projects completed include:
 - [Danagotchi](https://github.com/vickymg/danagotchi "Danagotchi") - A mindfulness app using AngularJS
@@ -22,7 +23,7 @@ Some projects completed include:
 - I was also a coach at the most recent [Rails Girls London](http://railsgirls.london/ "Rails Girls London") workshop, taking beginners through Ruby basics, and getting a Rails app up and running
 
 
-### Experience
+### Previous Experience
 
 My previous jobs mean that key skills I bring across include a very good understanding of communication in different contexts, a high regard for customer service, and the ability to organise anything that falls in my path.
 

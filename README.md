@@ -19,7 +19,7 @@ Some projects completed include:
 
 **Teaching**
 
-- I am an Assistant Instructor the Code First: Girls beginner HTML, CSS & JavaScript course at Birkbeck, University of London, for Autumn 2016
+- I am an Assistant Instructor on the [Code First: Girls](http://www.codefirstgirls.org.uk/ "Code First: Girls") beginner HTML, CSS & JavaScript course at Birkbeck, University of London, for Autumn 2016
 - I currently volunteer as a coach at [Codebar](http://www.codebar.io/ "Codebar") programming workshops, helping beginners learn to code
 - I was also a coach at the most recent [Rails Girls London](http://railsgirls.london/ "Rails Girls London") workshop, taking beginners through Ruby basics, and getting a Rails app up and running
 
